@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34ec6856-4aa4-458e-81f1-565d31aff268" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../database/insertLessonProperties.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../database/insertLessonProperties.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../java/com/nguyenducmanh/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../java/com/nguyenducmanh/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WEB-INF/views/user/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../WEB-INF/views/user/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/classes/com/nguyenducmanh/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../target/classes/com/nguyenducmanh/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/sqlmaster-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../target/sqlmaster-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/sqlmaster-1.0-SNAPSHOT/WEB-INF/classes/com/nguyenducmanh/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../target/sqlmaster-1.0-SNAPSHOT/WEB-INF/classes/com/nguyenducmanh/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/sqlmaster-1.0-SNAPSHOT/WEB-INF/views/user/menu.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../target/sqlmaster-1.0-SNAPSHOT/WEB-INF/views/user/menu.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../target/sqlmaster-1.0-SNAPSHOT/template/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../target/sqlmaster-1.0-SNAPSHOT/template/css/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1XhQMJ5hkLHwOlguPlxLamzEQE1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Travel-Project/travel" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ec6856-4aa4-458e-81f1-565d31aff268" name="Default Changelist" comment="" />
+      <created>1581495796748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581495796748</updated>
+      <workItem from="1581495798307" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1581495803809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1581495803809" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1581495814915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581495814915" />
+  </component>
+</project>

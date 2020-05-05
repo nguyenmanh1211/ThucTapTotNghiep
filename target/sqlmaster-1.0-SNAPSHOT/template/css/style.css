@@ -1,0 +1,181 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	margin-right: 10px;
+	margin-left: 10px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.main{
+	padding-top: 71px;
+}
+.header{
+	width: 100%;
+}
+
+.content{
+	height: 100%;
+	width: 100%;
+	padding-top: 10px;
+	margin-left: 10px;
+	position: fixed;
+	overflow: scroll;
+	right: -10px;
+	padding-bottom: 100px;
+	margin-bottom: 10px;
+	font-size: 22px;
+}
+
+.scroll{
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	overflow: scroll;
+}
+
+.dropdown b{
+	font-size: 18px;
+}
+
+.submenu a{
+	padding:0 0 0 10px !important;
+	color: black;
+	font-size:15px !important;
+}
+
+.submenu b{
+	font-weight: bold !important;
+	font-size:20px;
+}
+
+.item-menu>li>a{
+	font-size: 20px !important;
+	font-weight: bold !important;
+}
+
+.item-menu>li:active a{
+	color: black !important;
+}
+
+.sidebar{
+	padding-top: 10px;
+	padding-bottom: 60px;
+	margin-bottom: 10px;
+}
+
+.nav-link:hover{
+	background-color: #946936;
+	color: white;
+}
+
+.bookmark{
+	position: fixed;
+	right: 0px;
+}
+
+#col a.active{
+	background-color: #f7941d!important;
+	color: white;
+}
+.end{
+	width: 100%;
+	height: 50px;
+}
+.logo{
+	height: 50px!important;
+}
+.prettyprint{
+	border: 1px solid #d6d6d6;
+	background-color: #eee;
+	width: 98%;
+	border-radius: 0;
+	padding: 5px;
+	margin: 0 0 10px;
+	font-size: 12px;
+	overflow: auto;
+}
+.tag {
+	color: #008;
+}
+.str {
+	color: #080;
+}
+.clo, .opn, .pun {
+	color: #383804;
+}
+.cola{
+	flex: 0 0 16.666667%;
+	max-width: 17.666667%;
+}
+.vj-note {
+	background: #f7f7f7;
+	border-left: 3px solid #008000;
+	padding: 20px 25px;
+	font-size: 14px;
+	margin-bottom: 25px;
+}
+.share-vj {
+	margin-bottom: 12px;
+	display: inline-block;
+}
+.fb_iframe_widget {
+	/*display: inline-block;*/
+	position: relative;
+}
+.img-left{
+	margin: 6% auto;
+	width: 985px;
+	height: 520px;
+}
+.img1{
+	width: 850px;
+	height: 335px;
+	margin-left: 5%;
+}
+.img-right{
+	float: left;
+	width: 365px;
+	height: 420px;
+}
+.img2{
+	width: 260px;
+	height: 160px;
+	margin-left: 14%;
+	padding: 0 9px;
+}
+.database{
+	display: flex;
+	text-align: center;
+	width: 50%;
+	margin: auto;
+}
+.database a{
+	color: #3b7237;
+	padding: 0 25px;
+	margin: auto;
+}
+.text-over p{
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}
+.text-over h1{
+	display: none;
+}
+.div-search{
+	width: 750px;
+	margin: auto;
+	padding: 28px 0 20px;
+	border-right: 1px solid rgba(0, 0, 0, 0.05);
+}
+.textareaS{
+	overflow: hidden;
+	border: none;
+	resize: none;
+	width: 100%;
+	height: 100px;
+}
